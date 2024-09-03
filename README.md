@@ -11,7 +11,7 @@ I am eager to transition into this field, specifically to join a Security job ma
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection Lab|
+| Firewall deployment        | <a href="">Building blue team homelab<\a>|
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
