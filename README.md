@@ -1,11 +1,10 @@
 # Hey, This is my portfolio <3..
 <a href="https://linkedin.com/in/Sabriabunozha"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cyber security graduate with 7 months of experience in SIEM and EDR solutions, I have a dedication to solving complex problems and expanding my knowledge in the field of Cybersecurity  
+I am Sabri Abunozha a cybersecurity graduate with 7 months of experience as a Cybersecurity analyst, I have a dedication to solving complex problems and expanding my knowledge in the field of Cybersecurity this is my portfolio summarizing my career achievements
+You can contact me by email if you have any questions 
 
-## Objective
-
-I am eager to transition into this field, specifically to join a Security job market as a Cybersecurity analyst/engineer.
+Sabrii.abo@gmail.com
 
 ## Skills
 
