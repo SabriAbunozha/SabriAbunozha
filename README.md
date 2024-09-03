@@ -11,12 +11,12 @@ I am eager to transition into this field, specifically to join a Security job ma
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Firewall deployment        | <a href="">Building blue team homelab</a>|
-|                            | Detection Lab|
-|                                 | SOC Automation Lab|
-|                                   | SOC Automation Lab|
-|                                  | SOC Automation Lab|
-|                                  | SOC Automation Lab|
+|    Firewall deployment         | <a href="https://github.com/SabriAbunozha/Projects/tree/main/Blue-team-HomeLab">Building blue team homeLab</a>|
+|    Virtual machines            | <a href="https://github.com/SabriAbunozha/Projects/tree/main/Blue-team-HomeLab">Building blue team homeLab</a>|
+|    Networking                  | <a href="https://github.com/SabriAbunozha/Projects/tree/main/Blue-team-HomeLab">Building blue team homeLab</a>|
+|    SIEM solutions              | Splunk Implementation|
+|    EDRs                        | Trellix intergration|
+|    Network security            | <a href="https://github.com/SabriAbunozha/Projects/tree/main/Blue-team-HomeLab">Building blue team homelLab</a>|
 
 ## Tools
 
@@ -50,7 +50,7 @@ I am eager to transition into this field, specifically to join a Security job ma
 </div>
 
 ## Projects
-- Building a blue team home lab
+- <a href="https://github.com/SabriAbunozha/Projects/tree/main/Blue-team-HomeLab">Building blue team homeLab</a>
 - Splunk implementation 
 - Trellix integration 
 - Azure AD
