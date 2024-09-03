@@ -1,4 +1,4 @@
-# Hey, I am Sabri Abunozha <3 ..
+# Hey, This is my portfolio <3..
 <a href="https://linkedin.com/in/Sabriabunozha"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cyber security graduate with 7 months of experience in SIEM and EDR solutions, I have a dedication to solving complex problems and expanding my knowledge in the field of Cybersecurity  
@@ -12,11 +12,11 @@ I am eager to transition into this field, specifically to join a Security job ma
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Firewall deployment        | <a href="">Building blue team homelab</a>|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|                            | Detection Lab|
+|                                 | SOC Automation Lab|
+|                                   | SOC Automation Lab|
+|                                  | SOC Automation Lab|
+|                                  | SOC Automation Lab|
 
 ## Tools
 
@@ -50,5 +50,8 @@ I am eager to transition into this field, specifically to join a Security job ma
 </div>
 
 ## Projects
--
--
+- Building a blue team home lab
+- Splunk implementation 
+- Trellix integration 
+- Azure AD
+- Biometric access control system 
