@@ -16,7 +16,7 @@ Sabrii.abo@gmail.com
 |    SIEM solutions              | Splunk Implementation|
 |    EDRs                        | Trellix intergration|
 |    Network security            | <a href="https://github.com/SabriAbunozha/Projects/tree/main/Blue-team-HomeLab">Building blue team homelLab</a>|
-|    Privileged access managment            | <a href="https://github.com/SabriAbunozha/Projects/tree/main/Blue-team-HomeLab">Building blue team homelLab</a>|
+|    Privileged access management            | <a href="https://github.com/SabriAbunozha/Projects/tree/main/Blue-team-HomeLab">Building blue team homelLab</a>|
 |    Identity & access management            | <a href="https://github.com/SabriAbunozha/Projects/tree/main/Blue-team-HomeLab">Building blue team homelLab</a>|
 
 ## Tools
