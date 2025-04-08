@@ -55,4 +55,5 @@ Sabrii.abo@gmail.com
 - Splunk implementation 
 - Trellix integration 
 - Azure AD
-- Biometric access control system 
+- Biometric access control system
+- GCP Secure Env
