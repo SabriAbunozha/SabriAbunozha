@@ -1,7 +1,7 @@
 # Hey, This is my portfolio <3..
 <a href="https://linkedin.com/in/Sabriabunozha"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am Sabri Abunozha a cybersecurity graduate with 7 months of experience as a Cybersecurity analyst, I have a dedication to solving complex problems and expanding my knowledge in the field of Cybersecurity this is my portfolio summarizing my career achievements
+I am Sabri Abunozha a cybersecurity graduate with 2 years of experience as a Cybersecurity Engineer, I have a dedication to solving complex problems and expanding my knowledge in the field of Cybersecurity this is my portfolio summarizing my career achievements
 You can contact me by email if you have any questions 
 
 Sabrii.abo@gmail.com
